@@ -40,7 +40,7 @@
                  <img src="https://github.com/magcloud-project/.github/assets/67673493/78bf5f51-5d74-4afc-80f3-b31c9804b73d" width="50%" alt="calendar" />
              </td>
                          <td align="center" valign="top" width="25%">
-                 <img src="https://github.com/magcloud-project/.github/assets/67673493/e36e4df7-ebb9-4d40-94c3-adb8ce0789af" width="50%" alt="calendar" />
+                 <img src="https://github.com/magcloud-project/.github/assets/67673493/e36e4df7-ebb9-4d40-94c3-adb8ce0789af" width="50%" alt="menu" />
              </td>
         </tr>
         <tr>
@@ -63,8 +63,9 @@
 
 
 ### 🖥️ Project Tech Stacks
-- 백엔드: SpringBoot 3.0, Kotlin, MySQL(Aurora Serverless)
-- 프론트엔드(웹뷰): Next.JS, TypeScript
+전형적인 **3-티어 아키텍쳐**로 구성되어 있어요!
+- [백엔드](https://github.com/magcloud-project/magcloud-backend-api): SpringBoot 3.0, Kotlin, MySQL(Aurora Serverless)
+- [프론트엔드(웹뷰)](https://github.com/magcloud-project/magcloud-app): Next.JS, TypeScript
 - 인프라: Amazon Web Services, Docker, Kubernetes, Terraform
 <br/>
 
