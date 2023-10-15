@@ -1,5 +1,5 @@
-## 매지구름 프로젝트
-
+## 매지구름 프로젝트 (Project MagCloud)
+### ℹ️ Overview
 일기와 함께 **나의 감정 상태**를 기록하고, 친구와 공유해보세요!   
 매일 일기를 작성하면 나의 **월별 감정 상태**를 확인할 수 있어요!  
 **피드 기능**으로 나와 가장 친한 친구에게 나만의 이야기를 들려주세요! 내가 모르던 친구의 속마음을 듣고 공유해보세요!
@@ -26,6 +26,40 @@
 </table>
 <br/>
 
+### 🖼️ Screenshots
+<table>
+    <tbody>
+        <tr>
+             <td align="center" valign="top" width="25%">
+                 <img src="https://github.com/magcloud-project/.github/assets/67673493/0bc71c0b-1a72-4158-b390-758b8ec84526" width="50%" alt="Login Screen" />
+             </td>
+            <td align="center" valign="top" width="25%">
+                 <img src="https://github.com/magcloud-project/.github/assets/67673493/5adfbf0b-ae50-4d68-8e84-132a6219ae92" width="50%" alt="feed" />
+             </td>
+             <td align="center" valign="top" width="25%">
+                 <img src="https://github.com/magcloud-project/.github/assets/67673493/78bf5f51-5d74-4afc-80f3-b31c9804b73d" width="50%" alt="calendar" />
+             </td>
+                         <td align="center" valign="top" width="25%">
+                 <img src="https://github.com/magcloud-project/.github/assets/67673493/e36e4df7-ebb9-4d40-94c3-adb8ce0789af" width="50%" alt="calendar" />
+             </td>
+        </tr>
+        <tr>
+            <td>
+            로그인 화면
+            </td>
+            <td>
+                메인 피드 화면
+            </td>
+            <td>
+                달력 화면
+            </td>
+                        <td>
+                메뉴 화면
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br/>
 
 
 ### 🖥️ Project Tech Stacks
