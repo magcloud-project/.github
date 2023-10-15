@@ -12,11 +12,11 @@
 <table>
     <tbody>
     <tr>
-         <td align="center" valign="top" width="14.28%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>백엔드 개발</span></td>
-         <td align="center" valign="top" width="14.28%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>앱 개발</span></td>
-         <td align="center" valign="top" width="14.28%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>웹뷰 개발</span></td>
-         <td align="center" valign="top" width="14.28%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>인프라 구축</span></td>
-         <td align="center" valign="top" width="14.28%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>UI/UX 디자인</span></td>
+         <td align="center" valign="top" width="19%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>백엔드 개발</span></td>
+         <td align="center" valign="top" width="19%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>앱 개발</span></td>
+         <td align="center" valign="top" width="19%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>웹뷰 개발</span></td>
+         <td align="center" valign="top" width="19%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>인프라 구축</span></td>
+         <td align="center" valign="top" width="19%"><a href="https://github.com/cchuyong"><img src="https://avatars.githubusercontent.com/u/67673493?v=4" width="100px;" alt="CChuYong"/><br /><sub><b>Yeongmin Song</b></sub></a><br /><span>UI/UX 디자인</span></td>
     </tr>
     </tbody>
 </table>
